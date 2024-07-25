@@ -6,4 +6,10 @@ if (x > y) {
 } else {
     maximum = y;
 }
-console.log(maximum);  
+console.log(maximum);
+
+Using Ternary Operator
+// let x = 10;  
+// let y = 20;
+// let maximum = (x > y) ? x : y;
+// console.log(maximum);  
